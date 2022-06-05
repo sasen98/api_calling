@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:api_example/api_model.dart';
+import 'package:api_example/model/api_model.dart';
 import 'package:http/http.dart' as http;
 
 class ApiCalling {
