@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "209466089340",
-    "project_id": "api-calling-dev",
-    "storage_bucket": "api-calling-dev.appspot.com"
+    "project_number": "1010702773970",
+    "project_id": "api-calling-dev-7103d",
+    "storage_bucket": "api-calling-dev-7103d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:209466089340:android:62f122368e5629ed16cef9",
+        "mobilesdk_app_id": "1:1010702773970:android:d7b64a228de388b08e070b",
         "android_client_info": {
-          "package_name": "com.example.api_example"
+          "package_name": "com.example.api_example.dev"
         }
       },
       "oauth_client": [
         {
-          "client_id": "209466089340-lhrsososvpac5mc3aipb2d1jm4kd9vlb.apps.googleusercontent.com",
+          "client_id": "1010702773970-11jktkfm5h8vkkgefjvh4dl506hquipn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCq-GV7bOlG8gI4Iq2EF3Izmo04RgL_q-o"
+          "current_key": "AIzaSyAB6T-FbglfUxE2xsnbYFl2wS0ZgxnRfKY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "209466089340-lhrsososvpac5mc3aipb2d1jm4kd9vlb.apps.googleusercontent.com",
+              "client_id": "1010702773970-11jktkfm5h8vkkgefjvh4dl506hquipn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
